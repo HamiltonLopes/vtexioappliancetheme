@@ -49,6 +49,12 @@
     ]
   },
 
+  "product-summary-image":{
+    "props":{
+      "width": 277
+    }
+  },
+
   "product-summary-specification-badges": {
     "props": {
       "specificationGroupName": "Group",
